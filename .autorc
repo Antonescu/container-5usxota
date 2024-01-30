@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Antonescu",
+  "repo": "container-5usxota",
+  "name": "Antonescu",
+  "email": "antonescubogdan59@yahoo.com",
+}
